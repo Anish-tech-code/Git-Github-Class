@@ -1,2 +1,2 @@
 # Git-Github-Class
-Git and github for webdev
+Git and github for webdev.
